@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
