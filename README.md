@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2048-build-array-from-permutation](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0067-add-binary) |
+| [2048-build-array-from-permutation](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2048-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
