@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## String
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
 | [2048-build-array-from-permutation](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2215-finding-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Backtracking
 |  |
