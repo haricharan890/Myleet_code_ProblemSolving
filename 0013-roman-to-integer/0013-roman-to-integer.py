@@ -1,11 +1,18 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        hashmap = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
-        res = hashmap[s[len(s) - 1]]
-        for i in range(len(s) - 2, -1, -1):
-            if hashmap[s[i]] < hashmap[s[i + 1]]:
-                res -= hashmap[s[i]]
-            else:
-                res += hashmap[s[i]]
-
-        return res
+        translations = {
+            "I": 1,
+            "V": 5,
+            "X": 10,
+            "L": 50,
+            "C": 100,
+            "D": 500,
+            "M": 1000
+        }
+        number = 0
+        s = s.replace("IV", "IIII").replace("IX", "VIIII")
+        s = s.replace("XL", "XXXX").replace("XC", "LXXXX")
+        s = s.replace("CD", "CCCC").replace("CM", "DCCCC")
+        for char in s:
+            number += translations[char]
+        return number
