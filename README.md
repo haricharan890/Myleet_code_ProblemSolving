@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0189-rotate-array) |
 | [2048-build-array-from-permutation](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Sorting
