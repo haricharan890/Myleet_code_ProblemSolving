@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0274-h-index) |
 | [2048-build-array-from-permutation](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2215-finding-3-digit-even-numbers) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0274-h-index) |
 | [2215-finding-3-digit-even-numbers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2215-finding-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
