@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0274-h-index) |
 | [2048-build-array-from-permutation](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0274-h-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
