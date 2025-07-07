@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0412-fizz-buzz) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Sliding Window
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
