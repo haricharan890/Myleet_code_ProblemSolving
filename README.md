@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0412-fizz-buzz) |
+| [0812-rotate-string](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0812-rotate-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Sliding Window
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0812-rotate-string) |
 ## Enumeration
 |  |
 | ------- |
