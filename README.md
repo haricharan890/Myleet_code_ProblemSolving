@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0412-fizz-buzz) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0274-h-index) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0274-h-index) |
 | [2215-finding-3-digit-even-numbers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2215-finding-3-digit-even-numbers) |
 ## Linked List
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0179-largest-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Counting
 |  |
