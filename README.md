@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0274-h-index) |
 | [2048-build-array-from-permutation](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2048-build-array-from-permutation) |
