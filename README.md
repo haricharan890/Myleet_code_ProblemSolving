@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0412-fizz-buzz) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0160-intersection-of-two-linked-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
