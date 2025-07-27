@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0274-h-index) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0238-product-of-array-except-self) |
 ## Union Find
 |  |
