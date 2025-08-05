@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
+| [3790-fruits-into-baskets-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2048-build-array-from-permutation) |
+| [3790-fruits-into-baskets-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -343,4 +346,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0148-sort-list) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
