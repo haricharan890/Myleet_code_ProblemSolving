@@ -181,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search
 |  |
 | ------- |
