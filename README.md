@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0202-happy-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0088-merge-sorted-array) |
