@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0412-fizz-buzz) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0257-binary-tree-paths) |
 ## Counting Sort
 |  |
 | ------- |
