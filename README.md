@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0202-happy-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0102-binary-tree-level-order-traversal) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0102-binary-tree-level-order-traversal) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0530-minimum-absolute-difference-in-bst) |
