@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0392-is-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Trie
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0274-h-index) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3790-fruits-into-baskets-ii) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
