@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0219-contains-duplicate-ii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0392-is-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1628-count-submatrices-with-all-ones) |
 ## Trie
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1628-count-submatrices-with-all-ones) |
 | [2048-build-array-from-permutation](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
