@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0274-h-index) |
+| [0498-diagonal-traverse](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0498-diagonal-traverse) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2048-build-array-from-permutation) |
 | [3790-fruits-into-baskets-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
