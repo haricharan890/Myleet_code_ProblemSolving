@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/3790-fruits-into-baskets-ii) |
