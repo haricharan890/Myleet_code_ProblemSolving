@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0055-jump-game) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1628-count-submatrices-with-all-ones) |
