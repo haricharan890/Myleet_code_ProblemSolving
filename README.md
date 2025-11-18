@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0096-unique-binary-search-trees) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0119-pascals-triangle-ii) |
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/1917-maximum-average-pass-ratio) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
