@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/haricharan890/Myleet_code_ProblemSolving/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
